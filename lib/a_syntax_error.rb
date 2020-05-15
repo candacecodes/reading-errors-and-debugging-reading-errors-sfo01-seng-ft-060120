@@ -1,3 +1,1 @@
-x = "hello"
-x
-end
+x = 1
