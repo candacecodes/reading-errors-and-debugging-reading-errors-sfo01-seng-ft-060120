@@ -1,3 +1,2 @@
-var hello_world
-
-hello_world
+greeting = "hello there"
+greeting
